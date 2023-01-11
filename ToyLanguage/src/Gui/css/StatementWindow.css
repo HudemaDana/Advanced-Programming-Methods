@@ -1,0 +1,12 @@
+.statementListView{
+    -fx-border-color: transparent;
+    -fx-background-color: white;
+}
+
+.statementListView:filled:selected{
+    -fx-background-color: #3C2A21;
+    -fx-text-fill: white;
+}
+.statementListView:hover{
+    -fx-background-color: #D5CEA3;
+}
